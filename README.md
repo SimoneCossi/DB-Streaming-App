@@ -1,4 +1,4 @@
-# DB-Streaming-App
+# DB Streaming App
 University exam project for the Databases course
 
 - Developer:  Cossi Simone
